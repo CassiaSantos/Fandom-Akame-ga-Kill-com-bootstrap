@@ -1,0 +1,40 @@
+#logoNavBar {
+  width: 75px;
+}
+
+a{
+	padding: 1rem;
+}
+
+h1{
+	padding: 1rem;
+}
+
+#imagemWallpaper{
+	width: 50%;
+	margin-bottom: 2rem;
+}
+
+#wallpaper{
+	width: 50px;
+	padding-top: 1rem;
+}
+
+#footerName{
+	background: black;
+}
+
+footer{
+	margin-top: 2rem;
+	margin-bottom: 0rem;
+}
+
+#imgFooter{
+	padding-top: 20px;
+	width: 90px;
+}
+
+.principalContent{
+	margin-left: 40px;
+	margin-right: 40px;
+}
